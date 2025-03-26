@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/ray_tracer.dir/src/main.cpp.o CMakeFiles/ray_tracer.dir/src/scene.cpp.o CMakeFiles/ray_tracer.dir/src/renderer.cpp.o CMakeFiles/ray_tracer.dir/src/material.cpp.o CMakeFiles/ray_tracer.dir/src/camera.cpp.o CMakeFiles/ray_tracer.dir/src/vec3.cpp.o -o ray_tracer  /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 

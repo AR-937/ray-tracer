@@ -1,0 +1,3 @@
+/home/abdirahman/repos/cpp/ray_tracer_wkd/build/CMakeFiles/ray_tracer.dir
+/home/abdirahman/repos/cpp/ray_tracer_wkd/build/CMakeFiles/edit_cache.dir
+/home/abdirahman/repos/cpp/ray_tracer_wkd/build/CMakeFiles/rebuild_cache.dir
