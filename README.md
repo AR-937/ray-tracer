@@ -19,6 +19,7 @@ Three implementations were benchmarked using the same scene and hardware:
 | Refactored + Multithreading (final)     | **26.0**      | **26**          | 1.90         |
 
 <img width="1200" height="800" alt="raytracer_performance" src="https://github.com/user-attachments/assets/f8e06691-a195-4f7d-9792-d876005605e4" />
+
 **Result:** The final multithreaded version achieved **~66% faster rendering** than the original implementation.
 
 ## Demo
