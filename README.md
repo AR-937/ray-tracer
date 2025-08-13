@@ -21,14 +21,5 @@ Three implementations were benchmarked using the same scene and hardware:
 
 **Result:** The final multithreaded version achieved **~66% faster rendering** than the original implementation.
 
-## Example Output
+## Demo
 <img width="996" height="561" alt="ray tracer" src="https://github.com/user-attachments/assets/2d4cb7b3-5a49-438e-ba8f-9507bb19af29" />
-
-## Technologies Used
-- **C++17**
-- **STL** (Standard Template Library)
-- **Multithreading** (`std::thread`, `std::mutex`)
-- **Mathematics for graphics** (vectors, ray-sphere intersection)
-- **Linux** (development environment
-
-## Project Structure
