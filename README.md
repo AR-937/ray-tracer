@@ -29,6 +29,6 @@ Three implementations were benchmarked using the same scene and hardware:
 - **STL** (Standard Template Library)
 - **Multithreading** (`std::thread`, `std::mutex`)
 - **Mathematics for graphics** (vectors, ray-sphere intersection)
-- **Linux**
+- **Linux** (development environment
 
 ## Project Structure
