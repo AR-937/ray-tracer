@@ -23,6 +23,7 @@ Three implementations were benchmarked using the same scene and hardware:
 
 ## Example Output
 ![Example Render](images/example.png)
+<img width="996" height="561" alt="ray tracer" src="https://github.com/user-attachments/assets/2d4cb7b3-5a49-438e-ba8f-9507bb19af29" />
 
 ## Technologies Used
 - **C++17**
